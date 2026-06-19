@@ -1,0 +1,1412 @@
+[
+    {
+        "name": "ABRAR HASAN MUNEM",
+        "class": "IX",
+        "section": "OMAR KHAYYAM",
+        "id": "17698.0",
+        "zip_file": "ABRAR_HASAN_MUNEM_Class_IX_ID_17698.0.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "ARAFAT KARIM MUBIN",
+        "class": "IX",
+        "section": "OMAR KHAYYAM",
+        "id": "21325.0",
+        "zip_file": "ARAFAT_KARIM_MUBIN_Class_IX_ID_21325.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "KAMAL HASAN PRITOM",
+        "class": "IX",
+        "section": "OMAR KHAYYAM",
+        "id": "9822.0",
+        "zip_file": "KAMAL_HASAN_PRITOM_Class_IX_ID_9822.0.zip",
+        "events": [
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "MD RAKIBUL HASAN",
+        "class": "IX",
+        "section": "OMARA KHAYYAM",
+        "id": "21492.0",
+        "zip_file": "MD_RAKIBUL_HASAN_Class_IX_ID_21492.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "MOHAMMAD TASIN",
+        "class": "IX",
+        "section": "OMAR KHAYYAM",
+        "id": "13543.0",
+        "zip_file": "MOHAMMAD_TASIN_Class_IX_ID_13543.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "MUHTASIM RAHMAN",
+        "class": "IX",
+        "section": "OMAR KHAYYAM",
+        "id": "6045.0",
+        "zip_file": "MUHTASIM_RAHMAN_Class_IX_ID_6045.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "NAFIRU RAHMAN NAKIB",
+        "class": "IX",
+        "section": "OMAR KHAYYAM",
+        "id": "9206.0",
+        "zip_file": "NAFIRU_RAHMAN_NAKIB_Class_IX_ID_9206.0.zip",
+        "events": [
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "SHAHJALA MUNTASIR ARAF",
+        "class": "IX",
+        "section": "OMAR KHAYYAM",
+        "id": "21373.0",
+        "zip_file": "SHAHJALA_MUNTASIR_ARAF_Class_IX_ID_21373.0.zip",
+        "events": [
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "TANVIR",
+        "class": "IX",
+        "section": "IBN SINA",
+        "id": "26930.0",
+        "zip_file": "TANVIR_Class_IX_ID_26930.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "TANVIR ISLAM",
+        "class": "IX",
+        "section": "IBN SINA",
+        "id": "26930.0",
+        "zip_file": "TANVIR_ISLAM_Class_IX_ID_26930.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "TAHFHIMUL HAQUE",
+        "class": "IX",
+        "section": "IBN SINA",
+        "id": "6322.0",
+        "zip_file": "TAHFHIMUL_HAQUE_Class_IX_ID_6322.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "IFAZUR RAHMAN",
+        "class": "IX",
+        "section": "IBN SINA",
+        "id": "24270.0",
+        "zip_file": "IFAZUR_RAHMAN_Class_IX_ID_24270.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "SAMIT",
+        "class": "IX",
+        "section": "OMAR KHAYYAM",
+        "id": "6332.0",
+        "zip_file": "SAMIT_Class_IX_ID_6332.0.zip",
+        "events": [
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "SAMI-UL",
+        "class": "IX",
+        "section": "IBN SINA",
+        "id": "11691.0",
+        "zip_file": "SAMIUL_Class_IX_ID_11691.0.zip",
+        "events": [
+            "HUMAN CALCULATOR:"
+        ]
+    },
+    {
+        "name": "TAFHIMUL HOQUE",
+        "class": "IX",
+        "section": "IBN SINA",
+        "id": "6322.0",
+        "zip_file": "TAFHIMUL_HOQUE_Class_IX_ID_6322.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "AHNAF ZARIF HOSSIN MOLLAH",
+        "class": "IX",
+        "section": "IBN SINA",
+        "id": "8600.0",
+        "zip_file": "AHNAF_ZARIF_HOSSIN_MOLLAH_Class_IX_ID_8600.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "RUBAYET HASAN KABBO",
+        "class": "IX",
+        "section": "IBN SINA",
+        "id": "9852.0",
+        "zip_file": "RUBAYET_HASAN_KABBO_Class_IX_ID_9852.0.zip",
+        "events": [
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "WAJIH TAUSIF",
+        "class": "IX",
+        "section": "IBN SINA",
+        "id": "6521.0",
+        "zip_file": "WAJIH_TAUSIF_Class_IX_ID_6521.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR"
+        ]
+    },
+    {
+        "name": "SAIFUL ISLAM ARNOB",
+        "class": "IX",
+        "section": "IBN SINA",
+        "id": "",
+        "zip_file": "SAIFUL_ISLAM_ARNOB_Class_IX_Sec_IBN_SINA_Row_18.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "ARIYAN REHMAN ISHAN",
+        "class": "IX",
+        "section": "IBN KHALDUN",
+        "id": "",
+        "zip_file": "ARIYAN_REHMAN_ISHAN_Class_IX_Sec_IBN_KHALDUN_Row_19.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "ABRAR HASAN AMEED",
+        "class": "IX ",
+        "section": "IBN SINA",
+        "id": "17727.0",
+        "zip_file": "ABRAR_HASAN_AMEED_Class_IX_ID_17727.0.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "ABDULLAH",
+        "class": "VI",
+        "section": "OMAR KHAYYAM",
+        "id": "24300.0",
+        "zip_file": "ABDULLAH_Class_VI_ID_24300.0.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "AHNAF",
+        "class": "VI",
+        "section": "IBN KHALDUN",
+        "id": "19232.0",
+        "zip_file": "AHNAF_Class_VI_ID_19232.0.zip",
+        "events": [
+            "HUMAN CALCULATOR",
+            "IQ TEST",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "Aiham",
+        "class": "VI",
+        "section": "IBK",
+        "id": "23846.0",
+        "zip_file": "Aiham_Class_VI_ID_23846.0.zip",
+        "events": [
+            "HUMAN CALCULATOR",
+            "MATH OLYMPIAD",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "ARHAM",
+        "class": "VI",
+        "section": "IBN KHALDUN",
+        "id": "10675.0",
+        "zip_file": "ARHAM_Class_VI_ID_10675.0.zip",
+        "events": [
+            "IQ TEST",
+            "HUMAN CALCULATOR"
+        ]
+    },
+    {
+        "name": "AROSH",
+        "class": "VI",
+        "section": "IBN KHALDUN",
+        "id": "24596.0",
+        "zip_file": "AROSH_Class_VI_ID_24596.0.zip",
+        "events": [
+            "RUBIX CUBE",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "AYMAN",
+        "class": "VI",
+        "section": "IBN SINA",
+        "id": "19164.0",
+        "zip_file": "AYMAN_Class_VI_ID_19164.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "ENAN",
+        "class": "VI",
+        "section": "IBN SINA",
+        "id": "15205.0",
+        "zip_file": "ENAN_Class_VI_ID_15205.0.zip",
+        "events": [
+            "RUBIX CUBE",
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "ESHRAQUL KHAN RUPOK",
+        "class": "VI",
+        "section": "OMAR KHAYAM",
+        "id": "",
+        "zip_file": "ESHRAQUL_KHAN_RUPOK_Class_VI_Sec_OMAR_KHAYAM_Row_28.zip",
+        "events": [
+            "HUMAN CALCULATOR",
+            "IQ TEST",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "IFTEKHAR BIN ALI NAHIAN",
+        "class": "VI",
+        "section": "OMAR KHAYYAM",
+        "id": "19378.0",
+        "zip_file": "IFTEKHAR_BIN_ALI_NAHIAN_Class_VI_ID_19378.0.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "EUSHA",
+        "class": "VI",
+        "section": "IBN SINA",
+        "id": "24369.0",
+        "zip_file": "EUSHA_Class_VI_ID_24369.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "Hamim",
+        "class": "VI",
+        "section": "OMK",
+        "id": "17545.0",
+        "zip_file": "Hamim_Class_VI_ID_17545.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR"
+        ]
+    },
+    {
+        "name": "LABEEB",
+        "class": "VI",
+        "section": "OMAR KHAYYAM",
+        "id": "19362.0",
+        "zip_file": "LABEEB_Class_VI_ID_19362.0.zip",
+        "events": [
+            "IQ TEST",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "LABIB",
+        "class": "VI",
+        "section": "IBN KHALDUN",
+        "id": "26746.0",
+        "zip_file": "LABIB_Class_VI_ID_26746.0.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "MD WAHIDUZZAMAN",
+        "class": "VI",
+        "section": "IBN SINA",
+        "id": "11066.0",
+        "zip_file": "MD_WAHIDUZZAMAN_Class_VI_ID_11066.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "Nabil",
+        "class": "VI",
+        "section": "IBK",
+        "id": "17855.0",
+        "zip_file": "Nabil_Class_VI_ID_17855.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR"
+        ]
+    },
+    {
+        "name": "NAYMUL",
+        "class": "VI",
+        "section": "OMAR KHAYYAM",
+        "id": "26926.0",
+        "zip_file": "NAYMUL_Class_VI_ID_26926.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "RADID",
+        "class": "VI",
+        "section": "IBN KHALDUN",
+        "id": "10622.0",
+        "zip_file": "RADID_Class_VI_ID_10622.0.zip",
+        "events": [
+            "HUMAN CALCULATOR",
+            "IQ TEST",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "Rafin",
+        "class": "VI",
+        "section": "IBN SINA",
+        "id": "26488.0",
+        "zip_file": "Rafin_Class_VI_ID_26488.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "RIDWAN",
+        "class": "VI",
+        "section": "IBN SINA",
+        "id": "16990.0",
+        "zip_file": "RIDWAN_Class_VI_ID_16990.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "SADAT",
+        "class": "VI",
+        "section": "IBN KHALDUN",
+        "id": "24544.0",
+        "zip_file": "SADAT_Class_VI_ID_24544.0.zip",
+        "events": [
+            "HUMAN CALCULATOR",
+            "IQ TEST",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "SADMAN",
+        "class": "VI",
+        "section": "OMAR KHAYYAM",
+        "id": "15056.0",
+        "zip_file": "SADMAN_Class_VI_ID_15056.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "SAMI",
+        "class": "VI",
+        "section": "IBN SINA ",
+        "id": "17936.0",
+        "zip_file": "SAMI_Class_VI_ID_17936.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "SAMIUL",
+        "class": "VI",
+        "section": "IBS",
+        "id": "11041.0",
+        "zip_file": "SAMIUL_Class_VI_ID_11041.0.zip",
+        "events": [
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "SHABAB",
+        "class": "VI",
+        "section": "IBN KHALDUN",
+        "id": "24232.0",
+        "zip_file": "SHABAB_Class_VI_ID_24232.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "SILVO",
+        "class": "VI",
+        "section": "IBN SINA",
+        "id": "17802.0",
+        "zip_file": "SILVO_Class_VI_ID_17802.0.zip",
+        "events": [
+            "HUMAN CALCULATOR",
+            "IQ TEST",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "SOLAIMAN",
+        "class": "VI",
+        "section": "OMAR KHAYYAM",
+        "id": "26895.0",
+        "zip_file": "SOLAIMAN_Class_VI_ID_26895.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR"
+        ]
+    },
+    {
+        "name": "YAMIM",
+        "class": "VI",
+        "section": "OMAR KHAYYAM",
+        "id": "26882.0",
+        "zip_file": "YAMIM_Class_VI_ID_26882.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR"
+        ]
+    },
+    {
+        "name": "MEHRAB",
+        "class": "VI",
+        "section": "OMAR KHAYYAM",
+        "id": "26928.0",
+        "zip_file": "MEHRAB_Class_VI_ID_26928.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "SAMIUL",
+        "class": "VI",
+        "section": "IBN SINA",
+        "id": "11041.0",
+        "zip_file": "SAMIUL_Class_VI_ID_11041.0.zip",
+        "events": [
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "SEFAT",
+        "class": "VI",
+        "section": "OMAR KHAYYAM",
+        "id": "17347.0",
+        "zip_file": "SEFAT_Class_VI_ID_17347.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "ABDULLAH AL AHNAF",
+        "class": "VII",
+        "section": "IBN SINA",
+        "id": "15154.0",
+        "zip_file": "ABDULLAH_AL_AHNAF_Class_VII_ID_15154.0.zip",
+        "events": [
+            "RUBIX CUBE",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "ABDULLAH AL NUBAID",
+        "class": "VII",
+        "section": "IBN KHALDUN",
+        "id": "19173.0",
+        "zip_file": "ABDULLAH_AL_NUBAID_Class_VII_ID_19173.0.zip",
+        "events": [
+            "HUMAN CALCULATOR"
+        ]
+    },
+    {
+        "name": "ABDUR RHAMAN",
+        "class": "VII",
+        "section": "IBK",
+        "id": "24541.0",
+        "zip_file": "ABDUR_RHAMAN_Class_VII_ID_24541.0.zip",
+        "events": [
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "Abedin Haque",
+        "class": "VII",
+        "section": "IBS",
+        "id": "48.0",
+        "zip_file": "Abedin_Haque_Class_VII_ID_48.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "AHNAF MEJBAH SAAD",
+        "class": "VII",
+        "section": "IBN KHALDUN",
+        "id": "17926.0",
+        "zip_file": "AHNAF_MEJBAH_SAAD_Class_VII_ID_17926.0.zip",
+        "events": [
+            "RUBIX CUBE",
+            "IQ TEST",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "AKIB",
+        "class": "VII",
+        "section": "IBN KAHLDUN",
+        "id": "24319.0",
+        "zip_file": "AKIB_Class_VII_ID_24319.0.zip",
+        "events": [
+            "HUMAN CALCULATOR",
+            "IQ TEST",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "ARIF ARAFAT",
+        "class": "VII",
+        "section": "OMAR KHAYYAM",
+        "id": "19181.0",
+        "zip_file": "ARIF_ARAFAT_Class_VII_ID_19181.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "HASIBUL ISLAM",
+        "class": "VII",
+        "section": "IBN SINA",
+        "id": "24339.0",
+        "zip_file": "HASIBUL_ISLAM_Class_VII_ID_24339.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "HUMAN CALCULATOR",
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "JAWATA AFNAN KHAN",
+        "class": "VII",
+        "section": "IBN KHALDUN",
+        "id": "13647.0",
+        "zip_file": "JAWATA_AFNAN_KHAN_Class_VII_ID_13647.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "JUBAIR SHOWKOT SIAM",
+        "class": "VII",
+        "section": "IBN KHALDUN",
+        "id": "21425.0",
+        "zip_file": "JUBAIR_SHOWKOT_SIAM_Class_VII_ID_21425.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "KAZI FARHAN AKHTER",
+        "class": "VII",
+        "section": "IBN KHALDUN",
+        "id": "17537.0",
+        "zip_file": "KAZI_FARHAN_AKHTER_Class_VII_ID_17537.0.zip",
+        "events": [
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "KHANDAKER AYAN AL ZAIN",
+        "class": "VII",
+        "section": "IBN KHALDUN ",
+        "id": "26397.0",
+        "zip_file": "KHANDAKER_AYAN_AL_ZAIN_Class_VII_ID_26397.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "MAHMUD KHAN SHIKHON",
+        "class": "VII",
+        "section": "IBN KHALDUN",
+        "id": "17377.0",
+        "zip_file": "MAHMUD_KHAN_SHIKHON_Class_VII_ID_17377.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "MD ABDUL MUEED ADIYAN",
+        "class": "VII",
+        "section": "IBN SINA ",
+        "id": "24545.0",
+        "zip_file": "MD_ABDUL_MUEED_ADIYAN_Class_VII_ID_24545.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "MD ARIK AHNAF",
+        "class": "VII",
+        "section": "IBN KHALDUN",
+        "id": "17794.0",
+        "zip_file": "MD_ARIK_AHNAF_Class_VII_ID_17794.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "MD LABIB NAHIAN",
+        "class": "VII",
+        "section": "IBN SINA",
+        "id": "4543.0",
+        "zip_file": "MD_LABIB_NAHIAN_Class_VII_ID_4543.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "MD TAHSIN ISLAM",
+        "class": "VII",
+        "section": "IBN SINA",
+        "id": "13263.0",
+        "zip_file": "MD_TAHSIN_ISLAM_Class_VII_ID_13263.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "MD.Mashanmoon Sharif",
+        "class": "VII",
+        "section": "IBNA SINA",
+        "id": "21471.0",
+        "zip_file": "MDMashanmoon_Sharif_Class_VII_ID_21471.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "MUHTASIM SAMAD MAHDI",
+        "class": "VII",
+        "section": "OMAR KHAYYAM",
+        "id": "17090.0",
+        "zip_file": "MUHTASIM_SAMAD_MAHDI_Class_VII_ID_17090.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "RAYAT",
+        "class": "VII",
+        "section": "IBN SINA",
+        "id": "551.0",
+        "zip_file": "RAYAT_Class_VII_ID_551.0.zip",
+        "events": [
+            "HUMAN CALCULATOR",
+            "IQ TEST",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "SADIF HASSAN MAAN",
+        "class": "VII",
+        "section": "IBN SINA",
+        "id": "24696.0",
+        "zip_file": "SADIF_HASSAN_MAAN_Class_VII_ID_24696.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "SADRUL ISLAM",
+        "class": "VII",
+        "section": "IBN KHALDUN",
+        "id": "24156.0",
+        "zip_file": "SADRUL_ISLAM_Class_VII_ID_24156.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "SHASHWATA DAS",
+        "class": "VII",
+        "section": "IBN SINA",
+        "id": "13527.0",
+        "zip_file": "SHASHWATA_DAS_Class_VII_ID_13527.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "SM TANZIM ZUNAYED",
+        "class": "VII",
+        "section": "OMAR KHAYYAM",
+        "id": "20178.0",
+        "zip_file": "SM_TANZIM_ZUNAYED_Class_VII_ID_20178.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "SRIJON HALDER ANGKON",
+        "class": "VII",
+        "section": "IBN SINA",
+        "id": "26288.0",
+        "zip_file": "SRIJON_HALDER_ANGKON_Class_VII_ID_26288.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "TAHMID ISLAM MAHI",
+        "class": "VII",
+        "section": "IBN KHALDUN",
+        "id": "17337.0",
+        "zip_file": "TAHMID_ISLAM_MAHI_Class_VII_ID_17337.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "TANZIM CHOUDHURY",
+        "class": "VII",
+        "section": "IBN SINA",
+        "id": "13158.0",
+        "zip_file": "TANZIM_CHOUDHURY_Class_VII_ID_13158.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "ABIDUR",
+        "class": "VII",
+        "section": "IBN SINA",
+        "id": "16987.0",
+        "zip_file": "ABIDUR_Class_VII_ID_16987.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "ABU JAKWAN",
+        "class": "VIII",
+        "section": "IBN KHALDUN",
+        "id": "26965.0",
+        "zip_file": "ABU_JAKWAN_Class_VIII_ID_26965.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "FARHAN",
+        "class": "VIII",
+        "section": "IBN KHALDUN",
+        "id": "21249.0",
+        "zip_file": "FARHAN_Class_VIII_ID_21249.0.zip",
+        "events": [
+            "IQ TEST",
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "FARHAN HASAN",
+        "class": "VIII",
+        "section": "IBN SINA ",
+        "id": "13208.0",
+        "zip_file": "FARHAN_HASAN_Class_VIII_ID_13208.0.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "RAIYAN SOHAN",
+        "class": "VIII",
+        "section": "IBN SINA",
+        "id": "24296.0",
+        "zip_file": "RAIYAN_SOHAN_Class_VIII_ID_24296.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "RAYYAN ALAM",
+        "class": "VIII",
+        "section": "IBN SINA",
+        "id": "17325.0",
+        "zip_file": "RAYYAN_ALAM_Class_VIII_ID_17325.0.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "TAWSIF",
+        "class": "VIII",
+        "section": "OMAR KHAYYAM",
+        "id": "23863.0",
+        "zip_file": "TAWSIF_Class_VIII_ID_23863.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "YASIN SIDDIK EFAZ",
+        "class": "VIII",
+        "section": "OMAR KHAYYAM",
+        "id": "26961.0",
+        "zip_file": "YASIN_SIDDIK_EFAZ_Class_VIII_ID_26961.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "RIFAQAT ISLAM",
+        "class": "VIII",
+        "section": "OMAR KHAYYAM",
+        "id": "",
+        "zip_file": "RIFAQAT_ISLAM_Class_VIII_Sec_OMAR_KHAYYAM_Row_86.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "MD FARHAN ASHRAF",
+        "class": "Vlll",
+        "section": "IBN SINA",
+        "id": "11785.0",
+        "zip_file": "MD_FARHAN_ASHRAF_Class_Vlll_ID_11785.0.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "MD HASNATUR RAHMAN",
+        "class": "Vlll",
+        "section": "IBN KHALDUN",
+        "id": "26942.0",
+        "zip_file": "MD_HASNATUR_RAHMAN_Class_Vlll_ID_26942.0.zip",
+        "events": [
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "PRINON",
+        "class": "X",
+        "section": "IBN SINA ",
+        "id": "24324.0",
+        "zip_file": "PRINON_Class_X_ID_24324.0.zip",
+        "events": [
+            "HUMAN CALCULATOR:"
+        ]
+    },
+    {
+        "name": "RAJDEEP",
+        "class": "x",
+        "section": "IBN SINA",
+        "id": "24492.0",
+        "zip_file": "RAJDEEP_Class_x_ID_24492.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "MOHIT",
+        "class": "X",
+        "section": "IBN SINA ",
+        "id": "9298.0",
+        "zip_file": "MOHIT_Class_X_ID_9298.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "DIBBO",
+        "class": "X",
+        "section": "IBN SINA ",
+        "id": "24518.0",
+        "zip_file": "DIBBO_Class_X_ID_24518.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "PRONOB",
+        "class": "X",
+        "section": "IBN SINA ",
+        "id": "11237.0",
+        "zip_file": "PRONOB_Class_X_ID_11237.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "IFTEKHAR",
+        "class": "X",
+        "section": "IBN SINA",
+        "id": "21277.0",
+        "zip_file": "IFTEKHAR_Class_X_ID_21277.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "TILAK",
+        "class": "X",
+        "section": "IBN SINA ",
+        "id": "21134.0",
+        "zip_file": "TILAK_Class_X_ID_21134.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "NAFI",
+        "class": "X",
+        "section": "OMAR KHAYYAM",
+        "id": "21156.0",
+        "zip_file": "NAFI_Class_X_ID_21156.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "TOWHID",
+        "class": "X",
+        "section": "OMAR KHAYYAM",
+        "id": "6496.0",
+        "zip_file": "TOWHID_Class_X_ID_6496.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR"
+        ]
+    },
+    {
+        "name": "NAWAF",
+        "class": "X",
+        "section": "OMAR KHAYYAM",
+        "id": "13177.0",
+        "zip_file": "NAWAF_Class_X_ID_13177.0.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "YASEEN",
+        "class": "X",
+        "section": "OMAR KHAYYAM",
+        "id": "9302.0",
+        "zip_file": "YASEEN_Class_X_ID_9302.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "ZIHAD",
+        "class": "X",
+        "section": "OMAR KHAYYAM",
+        "id": "17688.0",
+        "zip_file": "ZIHAD_Class_X_ID_17688.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "RAIYAAN",
+        "class": "X",
+        "section": "OMAR KHAYYAM",
+        "id": "11641.0",
+        "zip_file": "RAIYAAN_Class_X_ID_11641.0.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "AHNAF",
+        "class": "X",
+        "section": "OMAR KHAYYAM",
+        "id": "21038.0",
+        "zip_file": "AHNAF_Class_X_ID_21038.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "ADIL EFRAD",
+        "class": "XI",
+        "section": "BHR",
+        "id": "27450.0",
+        "zip_file": "ADIL_EFRAD_Class_XI_ID_27450.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "AYAAN",
+        "class": "XI",
+        "section": "BMJ",
+        "id": "27376.0",
+        "zip_file": "AYAAN_Class_XI_ID_27376.0.zip",
+        "events": [
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "AYMAN",
+        "class": "XI",
+        "section": "BMJ",
+        "id": "27413.0",
+        "zip_file": "AYMAN_Class_XI_ID_27413.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "AYMAN",
+        "class": "XI",
+        "section": "BMJ",
+        "id": "27375.0",
+        "zip_file": "AYMAN_Class_XI_ID_27375.0.zip",
+        "events": [
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "ESRAK HOSSAIN NIHAM",
+        "class": "XI",
+        "section": "BHR",
+        "id": "27451.0",
+        "zip_file": "ESRAK_HOSSAIN_NIHAM_Class_XI_ID_27451.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "RAYHAN",
+        "class": "XI",
+        "section": "",
+        "id": "",
+        "zip_file": "RAYHAN_Class_XI_Row_108.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "FAHIM",
+        "class": "XI",
+        "section": "BMR ",
+        "id": "27209.0",
+        "zip_file": "FAHIM_Class_XI_ID_27209.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "WAKKHAR",
+        "class": "XI",
+        "section": "BMJ",
+        "id": "8904.0",
+        "zip_file": "WAKKHAR_Class_XI_ID_8904.0.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "PEITHWIRAJ",
+        "class": "XI",
+        "section": "BMR ",
+        "id": "25071.0",
+        "zip_file": "PEITHWIRAJ_Class_XI_ID_25071.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "AHNAF",
+        "class": "XI",
+        "section": "BMJ",
+        "id": "21278.0",
+        "zip_file": "AHNAF_Class_XI_ID_21278.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "NAFI",
+        "class": "XI",
+        "section": "BMJ",
+        "id": "27426.0",
+        "zip_file": "NAFI_Class_XI_ID_27426.0.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "SAJEDUS SAMI KHAN",
+        "class": "XI",
+        "section": "BMJ",
+        "id": "",
+        "zip_file": "SAJEDUS_SAMI_KHAN_Class_XI_Sec_BMJ_Row_114.zip",
+        "events": [
+            "IQ TEST"
+        ]
+    },
+    {
+        "name": "HRIDOY",
+        "class": "XI",
+        "section": "BMJ",
+        "id": "27423.0",
+        "zip_file": "HRIDOY_Class_XI_ID_27423.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "HUMAN CALCULATOR"
+        ]
+    },
+    {
+        "name": "AMIR HAMJA",
+        "class": "XII",
+        "section": "BHR",
+        "id": "25210.0",
+        "zip_file": "AMIR_HAMJA_Class_XII_ID_25210.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "ANAN",
+        "class": "XII",
+        "section": "BMR",
+        "id": "",
+        "zip_file": "ANAN_Class_XII_Sec_BMR_Row_117.zip",
+        "events": [
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "MUBIN",
+        "class": "XII",
+        "section": "BMJ",
+        "id": "13504.0",
+        "zip_file": "MUBIN_Class_XII_ID_13504.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "SALEH",
+        "class": "XII",
+        "section": "BMJ",
+        "id": "25071.0",
+        "zip_file": "SALEH_Class_XII_ID_25071.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "SONDIP",
+        "class": "XII",
+        "section": "BMJ",
+        "id": "",
+        "zip_file": "SONDIP_Class_XII_Sec_BMJ_Row_120.zip",
+        "events": [
+            "MATH OLYMPIAD"
+        ]
+    },
+    {
+        "name": "RAIYAN",
+        "class": "XII",
+        "section": "BHR",
+        "id": "25157.0",
+        "zip_file": "RAIYAN_Class_XII_ID_25157.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "SAZID",
+        "class": "XII",
+        "section": "BHR",
+        "id": "25207.0",
+        "zip_file": "SAZID_Class_XII_ID_25207.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "SANVI",
+        "class": "XII",
+        "section": "BHR",
+        "id": "27087.0",
+        "zip_file": "SANVI_Class_XII_ID_27087.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    },
+    {
+        "name": "RIMON",
+        "class": "XII",
+        "section": "BMJ",
+        "id": "27350.0",
+        "zip_file": "RIMON_Class_XII_ID_27350.0.zip",
+        "events": [
+            "MATH OLYMPIAD",
+            "IQ TEST",
+            "HUMAN CALCULATOR",
+            "RUBIX CUBE"
+        ]
+    }
+]
