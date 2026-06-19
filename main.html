@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delta Math Club of MPSC - Certificate Portal</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts for an elegant, academic feel -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Header / Navigation -->
+    <header class="main-header">
+        <div class="header-container">
+            <div class="logo-area">
+                <!-- If you have a logo image, replace "logo.png" with its path. 
+                     If the image fails to load, it will gracefully show the stylish text fallback. -->
+                <img src="logo.png" alt="Delta Logo" class="club-logo" onerror="this.style.display='none'">
+                <span class="club-title">Delta Math Club of MPSC</span>
+            </div>
+            <div class="header-tag">Mohammadpur Preparatory School & College</div>
+        </div>
+    </header>
+
+    <!-- Main Body Container -->
+    <main class="main-content">
+        <div class="search-card">
+            <div class="card-header">
+                <span class="math-symbol">Δ</span>
+                <h2>Certificate Download Portal</h2>
+                <p class="subtitle">Search your name as it appears on the registration sheet to download your event certificates.</p>
+            </div>
+            
+            <form id="search-form" class="search-box">
+                <div class="input-wrapper">
+                    <input type="text" id="search-input" placeholder="Type your full name here..." required autocomplete="off">
+                </div>
+                <button type="submit" id="search-btn" disabled>Loading...</button>
+            </form>
+
+            <!-- Search Results will be injected here by script.js -->
+            <div id="results" class="results-container"></div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="main-footer">
+        <p>&copy; 2026 Delta Math Club of MPSC. All Rights Reserved.</p>
+        <p class="footer-subtext">3/3 Asad Avenue, Mohammadpur, Dhaka - 1207</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
